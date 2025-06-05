@@ -18,4 +18,4 @@ Siga estes passos para colocar o projeto em funcionamento:
    ```bash
    npm run dev
 
-# Pronto! Agora o projeto estará rodando localmente.
+### Pronto! Agora o projeto estará rodando localmente.
